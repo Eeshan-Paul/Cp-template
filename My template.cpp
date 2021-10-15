@@ -33,8 +33,13 @@
             }
         }   
 
+	void solve(){
+		
+	}
+
         int32_t main()
         {
-            
+	    f(t)
+            	solve();
             return 0;
         }
